@@ -1,0 +1,9 @@
+c:\users\v\documents\visual studio 2015\Projects\randomSayiuretme\randomSayiuretme\bin\Debug\randomSayiuretme.exe.config
+c:\users\v\documents\visual studio 2015\Projects\randomSayiuretme\randomSayiuretme\bin\Debug\randomSayiuretme.exe
+c:\users\v\documents\visual studio 2015\Projects\randomSayiuretme\randomSayiuretme\bin\Debug\randomSayiuretme.pdb
+c:\users\v\documents\visual studio 2015\Projects\randomSayiuretme\randomSayiuretme\obj\Debug\randomSayiuretme.csprojResolveAssemblyReference.cache
+c:\users\v\documents\visual studio 2015\Projects\randomSayiuretme\randomSayiuretme\obj\Debug\randomSayiuretme.Form1.resources
+c:\users\v\documents\visual studio 2015\Projects\randomSayiuretme\randomSayiuretme\obj\Debug\randomSayiuretme.Properties.Resources.resources
+c:\users\v\documents\visual studio 2015\Projects\randomSayiuretme\randomSayiuretme\obj\Debug\randomSayiuretme.csproj.GenerateResource.Cache
+c:\users\v\documents\visual studio 2015\Projects\randomSayiuretme\randomSayiuretme\obj\Debug\randomSayiuretme.exe
+c:\users\v\documents\visual studio 2015\Projects\randomSayiuretme\randomSayiuretme\obj\Debug\randomSayiuretme.pdb
